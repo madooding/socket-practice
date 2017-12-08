@@ -9,7 +9,7 @@ import mime from 'mime'
 
 const app = express()
 const router = express.Router()
-const port = 8080
+const port = 80
 
 let currentColor = "FFFF00"
 
